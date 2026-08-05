@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    background-color: blueviolet;
+    background: linear-gradient(to bottom, blueviolet, pink);
     text-align: center;
 }
 
